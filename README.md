@@ -31,13 +31,5 @@
   <p align="center">
     Projecte Presentat als Premis Ludi 2023 de TV3
     <br />
-    <a href="https://github.com/github_username/Ludi-TV3"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/Ludi-TV3">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/Ludi-TV3/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/Ludi-TV3/issues">Request Feature</a>
   </p>
 </div>
