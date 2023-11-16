@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 3f731bc060c6e7b409d21615c49ddc1b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_tyles_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 125
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f342b5603b28aa4dba7a8f0251d377d
+      internalID: -1016432265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 125
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c6584baec3394096e559b6de492e4
+      internalID: 2072519272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454147e8ff02b84da40deb3c6072f84
+      internalID: 41128861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1131910a3196e342a3d309fd10dfa85
+      internalID: -618046122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2339d561ffc42948820471b660cbe43
+      internalID: 1065987228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94dabb860fd90b41848638706d349f7
+      internalID: -484344601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50580218b9afdbd4282871087c204450
+      internalID: -41172713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a9e33e6649b64da7bef97f86c568e
+      internalID: 2032845272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_39
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295002943803aab4c97b34404ed70a10
+      internalID: 1299898193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_41
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3d8ad60927c84890578181506c391
+      internalID: -99535904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2ca1aa0def5f8438ad56f4dd9482b9
+      internalID: 1421633766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_45
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db636d366b282540a77fc8f635b003a
+      internalID: 684329956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_tyles_47
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 11
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4e0537cfd0b840aba6b50a02112d2
+      internalID: -859681506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ground_tyles_0: -1016432265
+      Ground_tyles_1: 2072519272
+      Ground_tyles_10: -874803132
+      Ground_tyles_11: -1223227246
+      Ground_tyles_12: 201038202
+      Ground_tyles_13: 887069990
+      Ground_tyles_14: 1127601466
+      Ground_tyles_15: -1042531056
+      Ground_tyles_16: 41128861
+      Ground_tyles_17: -618046122
+      Ground_tyles_18: -199998520
+      Ground_tyles_19: -2058013776
+      Ground_tyles_2: -2004244212
+      Ground_tyles_20: 250326232
+      Ground_tyles_21: 1107333669
+      Ground_tyles_22: 1826338604
+      Ground_tyles_23: 108216849
+      Ground_tyles_24: 949024184
+      Ground_tyles_25: 1999498748
+      Ground_tyles_26: -1301433895
+      Ground_tyles_27: -1825680860
+      Ground_tyles_28: -964982570
+      Ground_tyles_29: -1510982956
+      Ground_tyles_3: -1948538237
+      Ground_tyles_30: -872861303
+      Ground_tyles_31: -263300159
+      Ground_tyles_32: 1065987228
+      Ground_tyles_33: -484344601
+      Ground_tyles_34: 826272302
+      Ground_tyles_35: -41172713
+      Ground_tyles_36: -1470388095
+      Ground_tyles_37: 2032845272
+      Ground_tyles_38: -636486008
+      Ground_tyles_39: 1299898193
+      Ground_tyles_4: 1951618038
+      Ground_tyles_40: 350204811
+      Ground_tyles_41: -99535904
+      Ground_tyles_42: 2046428157
+      Ground_tyles_43: 1421633766
+      Ground_tyles_44: 22142605
+      Ground_tyles_45: 684329956
+      Ground_tyles_46: 181749736
+      Ground_tyles_47: -859681506
+      Ground_tyles_5: -918227809
+      Ground_tyles_6: 1730314744
+      Ground_tyles_7: 81929125
+      Ground_tyles_8: -1059329880
+      Ground_tyles_9: 64599203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,6 +6,25 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9cd07e8fc43913e41ad5663187c48ebc
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e6b50e0d55c05604db3b400fcb2045fc
+  - enabled: 1
     path: Assets/Scenes/MainGameLoop.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Events.unity
+    guid: f3d6ed1acc998e84798ba517de9749c7
+  - enabled: 1
+    path: Assets/Scenes/ScoreMenu.unity
+    guid: aa11343366da2e249a466d0370887a53
+  - enabled: 1
+    path: Assets/Scenes/PowerUps/PowerUps.unity
+    guid: c4aed5ecbe2b1794bb46f6b015f28c62
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard.unity
+    guid: 88efaac617e3d9149a97be023093f0ad
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ffbd69a64dd2c934381726ef048786f5, type: 2}

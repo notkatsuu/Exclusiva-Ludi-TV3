@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - AudioSource
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - 
   - 
   - background
-  - 
+  - camera
   - 
   - 
   - 
@@ -23,8 +25,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Post-Processing Volumes
+  - Events
   - 
   - 
   - 
