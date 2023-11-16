@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/Ludi-TV3">
-    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpremisludi.cat%2F&psig=AOvVaw13ah8fqSLBLBf_uLPXxazZ&ust=1700239429797000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNixqMz7yIIDFQAAAAAdAAAAABAI)" alt="Logo" width="80" height="80">
+    
   </a>
 
 <h3 align="center">Ludi-TV3</h3>
@@ -34,10 +34,10 @@
     <a href="https://github.com/github_username/Ludi-TV3"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/Ludi-TV3">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/Ludi-TV3/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/Ludi-TV3/issues">Request Feature</a>
   </p>
 </div>
