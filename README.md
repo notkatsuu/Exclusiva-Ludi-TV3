@@ -1,5 +1,3 @@
-# Ludi-TV3
-Projecte participant als premis Ludi de TV3
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
