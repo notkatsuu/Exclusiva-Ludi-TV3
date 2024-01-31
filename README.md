@@ -1,2 +1,2 @@
 # Exclusiva!
-Projecte participant als premis Ludi de TV3
+Unity project candidate for TV3 3CAT LUDI awards 2023.
